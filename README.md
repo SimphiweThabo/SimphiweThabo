@@ -10,7 +10,7 @@
 ## Tech Stack
 Java • SQL • Git • GitHub • Arduino
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?simphiwe thabo=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?simphiwethabo=yourusername&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?simphiwethabo=yourusername&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?simphiwethabo=yourusername)
