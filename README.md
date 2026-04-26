@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Simphiwe Thabo Dlamini
 
-<!--
-**SimphiweThabo/SimphiweThabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Data Management Student
+- Aspiring Information System Analyst
+- Aspiring Database Administrator
+- Aspiring Software Engineer 
+- Interested in Java, SQL, Arduino
 
-Here are some ideas to get you started:
+## Tech Stack
+Java • SQL • Git • GitHub • Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?simphiwe thabo=yourusername&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?simphiwethabo=yourusername&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?simphiwethabo=yourusername)
+
+## Snake Animation
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
